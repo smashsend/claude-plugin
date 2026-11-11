@@ -1,0 +1,32 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "smashsend",
+  "version": "0.1.0",
+  "description": "Run SmashSend email marketing from Claude Code: build campaigns with react-email, analyse email and workflow performance, edit workflow drafts, manage contacts, and add transactional email to your app.",
+  "author": {
+    "name": "SmashSend",
+    "url": "https://smashsend.com"
+  },
+  "homepage": "https://smashsend.com",
+  "repository": "https://github.com/smashsend/claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "email",
+    "email-marketing",
+    "transactional-email",
+    "newsletter",
+    "react-email",
+    "mcp"
+  ],
+  "userConfig": {
+    "api_key": {
+      "type": "string",
+      "title": "SmashSend API key",
+      "description": "Create one at https://smashsend.com/latest/settings/api-keys. Use a Viewer key for read-only analysis, or an Editor key to draft campaigns, edit workflow drafts and send transactional email.",
+      "sensitive": true,
+      "required": true
+    }
+  },
+  "icon": "./assets/icon.png",
+  "privacyPolicyUrl": "https://smashsend.com/legal/privacy"
+}

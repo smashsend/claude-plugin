@@ -1,0 +1,13 @@
+{
+  "name": "smashsend",
+  "owner": { "name": "SmashSend", "url": "https://smashsend.com" },
+  "metadata": { "description": "Official SmashSend plugins for Claude Code" },
+  "plugins": [
+    {
+      "name": "smashsend",
+      "source": "./",
+      "description": "Email campaigns, analytics, workflows and transactional email from Claude Code.",
+      "category": "productivity"
+    }
+  ]
+}
