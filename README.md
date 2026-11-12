@@ -1,6 +1,6 @@
-# SmashSend for Claude Code
+# SMASHSEND Email Marketing API for Claude
 
-The official [SmashSend](https://smashsend.com) plugin for Claude Code. It connects Claude to your SmashSend workspace through the SmashSend MCP server (`https://mcp.smashsend.com/mcp`) and adds skills that teach Claude how to do email work properly.
+The official [SMASHSEND](https://smashsend.com) Email Marketing API plugin for Claude Code. It connects Claude to your SmashSend workspace through the SmashSend MCP server (`https://mcp.smashsend.com/mcp`) and adds skills that teach Claude how to do email work properly.
 
 ## What you can ask Claude
 

@@ -1,8 +1,9 @@
 {
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "smashsend",
+  "displayName": "SMASHSEND Email Marketing API",
   "version": "0.1.0",
-  "description": "Run SmashSend email marketing from Claude Code: build campaigns with react-email, analyse email and workflow performance, edit workflow drafts, manage contacts, and add transactional email to your app.",
+  "description": "SMASHSEND Email Marketing API for Claude: build email campaigns and newsletters with react-email, analyse open and click rates, edit email automation workflows, manage contacts, and add transactional email to your app.",
   "author": {
     "name": "SmashSend",
     "url": "https://smashsend.com"
@@ -11,10 +12,12 @@
   "repository": "https://github.com/smashsend/claude-plugin",
   "license": "MIT",
   "keywords": [
-    "email",
+    "smashsend",
     "email-marketing",
+    "email-api",
     "transactional-email",
     "newsletter",
+    "email-automation",
     "react-email",
     "mcp"
   ],
