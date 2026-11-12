@@ -31,5 +31,8 @@
     }
   },
   "icon": "./assets/icon.png",
-  "privacyPolicyUrl": "https://smashsend.com/legal/privacy"
+  "privacyPolicyUrl": "https://smashsend.com/legal/privacy",
+  "supportUrl": "https://smashsend.com/support",
+  "documentationUrl": "https://smashsend.com/docs",
+  "termsOfServiceUrl": "https://smashsend.com/legal/tos"
 }
